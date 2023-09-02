@@ -1,2 +1,2 @@
 # Javascript
-Practice javascript basic
+Practice javascript basic at https://sumaakter123.github.io/Javascript/
